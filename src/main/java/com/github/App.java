@@ -7,7 +7,7 @@ package com.github;
  */
 public class App 
 {
-    /** main program */
+    /** main program ooop */
     public static void main( String[] args )
     {
     	//Comment
